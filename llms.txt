@@ -1,0 +1,44 @@
+# StreamerOS Math Calculators
+
+> Free everyday math calculators: percentages, age, dates, hours, ratios and averages. Instant, with the formula shown.
+
+Built and maintained by Yaseen Khatib, Full Stack AI Developer, Hyderabad, India (https://yk.streamerosai.com/).
+
+## Calculators
+
+- [Percentage Calculator](https://math.streamerosai.com/percentage-calculator/): Type two numbers: get X% of Y, what percent X is of Y, or the whole from a part. 15% of 80 is 12. Free, with the formula and worked examples.
+- [Percentage Increase Calculator](https://math.streamerosai.com/percentage-increase-calculator/): Find the percent increase between two numbers, or raise a number by a percentage. 50 to 65 is +30%; 80 up 25% is 100. Formula and examples.
+- [Percentage Decrease Calculator](https://math.streamerosai.com/percentage-decrease-calculator/): Find the percentage decrease between two numbers, or reduce a number by a percentage. 80 to 60 is a 25% decrease; 200 down 15% is 170.
+- [Percent Change Calculator](https://math.streamerosai.com/percent-change-calculator/): Enter an old and a new value for percent change, absolute change and percent difference. 40 to 50 is +25%, but 50 to 40 is -20%. Free.
+- [Age Calculator](https://math.streamerosai.com/age-calculator/): Calculate your exact age in years, months and days from your date of birth, plus total days, your next birthday and the weekday you were born.
+- [Days Between Dates Calculator](https://math.streamerosai.com/days-between-dates-calculator/): Date duration calculator: count the days between two dates, with weeks, months and working days. Optionally count the end date too. Free and instant.
+- [Date Calculator](https://math.streamerosai.com/date-calculator/): Add or subtract days, months or years and see the date and weekday. 30 days after 4 Nov 2026 is Friday 4 Dec 2026. Month-end rules explained.
+- [Hours Calculator](https://math.streamerosai.com/hours-calculator/): Enter start, end and break for each day. 09:00 to 17:00 with 30 minutes off is 7:30, or 7.5 decimal hours. Handles night shifts and a full week.
+- [Time Calculator](https://math.streamerosai.com/time-calculator/): Add or subtract lengths of time in days, hours, minutes and seconds. 2 h 30 min plus 1 h 45 min is 4 h 15 min. Carries over correctly.
+- [Percentage Difference Calculator](https://math.streamerosai.com/percentage-difference-calculator/): Calculate the percentage difference between two numbers using their average as the base. Free and instant, with the formula and worked examples.
+- [Discount Calculator](https://math.streamerosai.com/discount-calculator/): Discount calculator and percentage off calculator: find the sale price and savings, stack a second discount, or work out the percent off from two prices.
+- [Standard Deviation Calculator](https://math.streamerosai.com/standard-deviation-calculator/): Paste a list of numbers to get the sample and population standard deviation, variance and mean. Free and instant, with the formulas and a worked example.
+- [Ratio Calculator](https://math.streamerosai.com/ratio-calculator/): Simplify a ratio to its lowest terms, or solve A:B = C:X for the missing value. Handles decimals. Free and instant, with worked examples.
+- [Average Calculator](https://math.streamerosai.com/average-calculator/): Paste your numbers for mean, median, mode, sum and range. For 4, 8, 8, 10, 15 the mean is 9 and the median and mode are 8. Free.
+
+## Guides
+
+- [All guides](https://math.streamerosai.com/guides/)
+- [Percentage formulas explained: of, is-what-percent and percent change](https://math.streamerosai.com/guides/percentage-formulas/): The percentage formulas you need, with worked examples, plus common mistakes like percent versus percentage points and why +50% then -50% is not zero.
+- [How to count days between dates: inclusive, exclusive and working days](https://math.streamerosai.com/guides/counting-days-between-dates/): Why two people can get different answers for the same two dates, and how inclusive counting, leap years, month lengths and working days are handled.
+
+## How it works
+
+- Every calculation runs in your browser. Numbers you type are not uploaded.
+- The formula is shown on each page. Results drop trailing zeros and show up to 6 decimal places by default; counts of days, weeks and months are whole numbers, and decimal hours show 2 or 4 places.
+- Percent difference is the gap relative to the average of the two values, so it is symmetric; percent change is relative to the old value, so it is not.
+- The calculation functions are covered by unit tests (Vitest). No claim is made beyond what those tests check.
+
+## About
+
+- [About](https://math.streamerosai.com/about/)
+- [Privacy](https://math.streamerosai.com/privacy/)
+- [Terms](https://math.streamerosai.com/terms/)
+- [Contact](https://math.streamerosai.com/contact/)
+- [Full text of every page, one file](https://math.streamerosai.com/llms-full.txt)
+- [Sitemap](https://math.streamerosai.com/sitemap.xml)
