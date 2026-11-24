@@ -1,0 +1,2026 @@
+# StreamerOS Math Calculators: full site text
+
+> The readable text of every public page on https://math.streamerosai.com, built by Yaseen Khatib, Full Stack AI Developer, Hyderabad, India
+> (https://yk.streamerosai.com/). The short map is at https://math.streamerosai.com/llms.txt.
+
+
+---
+
+# Math Calculators: Percentage, Age, Date, Hours and Ratio
+
+URL: https://math.streamerosai.com/
+
+- Instant
+- Private
+- Free
+
+## Everyday math, shown step by step
+
+Percentages, age, dates, hours, ratios and averages. Type your numbers and the answer appears, with the formula behind it.
+Percentage calculator Age calculator
+
+Percentages
+
+### Percentage calculators
+
+#### Percentage Calculator
+
+Find X% of Y, what percent one number is of another, or the whole from a part.
+Open calculator →
+
+#### Percentage Increase Calculator
+
+Find the percent increase between two numbers, or raise a number by a percentage.
+Open calculator →
+
+#### Percentage Decrease Calculator
+
+Find the percent decrease between two numbers, or reduce a number by a percentage.
+Open calculator →
+
+#### Percent Change Calculator
+
+Percent change between two values, plus the symmetric percent difference.
+Open calculator →
+
+#### Percentage Difference Calculator
+
+The percentage difference between two values, the same in either direction.
+Open calculator →
+
+#### Discount Calculator
+
+Sale price, savings and stacked discounts, or the percent off from two prices.
+Open calculator →
+
+Dates and time
+
+### Age, date and hours calculators
+
+#### Age Calculator
+
+Exact age in years, months and days, with total days and your next birthday.
+Open calculator →
+
+#### Days Between Dates Calculator
+
+Days, weeks, months and working days between any two dates.
+Open calculator →
+
+#### Date Calculator
+
+Add or subtract days, months and years and see the date and weekday.
+Open calculator →
+
+#### Hours Calculator
+
+Hours worked between start and end times, with breaks, in H:MM and decimal hours.
+Open calculator →
+
+#### Time Calculator
+
+Add or subtract days, hours, minutes and seconds.
+Open calculator →
+
+Numbers
+
+### Ratios and averages
+
+#### Standard Deviation Calculator
+
+Sample and population standard deviation, variance and mean.
+Open calculator →
+
+#### Ratio Calculator
+
+Simplify a ratio, or find the missing value in a proportion.
+Open calculator →
+
+#### Average Calculator
+
+Mean, median, mode and range for any list of numbers.
+Open calculator →
+
+Why these
+
+### Numbers you can check
+
+#### The formula is always shown
+
+Every page states the arithmetic it uses, with worked examples, so you can check the answer yourself.
+
+#### Instant answers
+
+Results update as you type. No button to press, no sign-up, no ads in the way of the result.
+
+#### Private
+
+Everything is calculated in your browser. Dates of birth and other figures are never uploaded.
+
+Guides
+
+### Understand the formulas
+
+#### Percentage formulas explained: of, is-what-percent and percent change
+
+The formulas, worked examples, and the mistakes that trip people up.
+Read guide →
+
+#### How to count days between dates: inclusive, exclusive and working days
+
+Inclusive vs exclusive counting, month lengths, leap years and working days.
+Read guide →
+
+About
+
+### How to read the results
+
+Each calculator shows its formula and works a few examples you can check by hand. The percentage tools do exact arithmetic on the numbers you type; the date tools work on calendar dates rather than timestamps, so daylight saving never shifts a day; and the age calculator explains the rule it uses for 29 February birthdays. Where a result depends on a convention, such as counting the end date or skipping weekends, the page says which one it uses and how to switch. The guides explain the formulas and the usual mistakes.
+
+
+---
+
+# Percentage Calculator: What Is X% of Y? (15% of 80 = 12)
+
+URL: https://math.streamerosai.com/percentage-calculator/
+
+Free · instant · runs in your browser
+
+## Percentage Calculator
+
+Three answers in one place: what is X% of Y, X is what percent of Y, and X is Y% of what number. Type in any box and the result updates.
+
+#### What is X% of Y?
+
+Percentage (%)
+Of the number
+15% of 80 is 12
+
+#### X is what percent of Y?
+
+Number (X)
+Total (Y)
+12 is 15% of 80
+
+#### X is Y% of what number?
+
+Number (X)
+Percentage (Y%)
+12 is 15% of 80
+
+### The three formulas
+
+Question Formula Example
+X% of Y X / 100 x Y 15% of 80 = 12
+X is what % of Y X / Y x 100 12 is 15% of 80
+X is Y% of what X / (Y / 100) 12 is 15% of 80
+
+### How to use the calculator
+
+- Pick the question that matches yours: X% of Y, X is what % of Y, or X is Y% of what.
+- Type your two numbers in that block. The answer appears as you type; there is no button.
+- Check the answer against the formula table above if you want to see the working.
+
+### Worked examples from everyday life
+
+Situation Working Answer
+An 18% tip on a 64 bill 18 / 100 x 64 11.52
+8% sales tax on 250 8 / 100 x 250 = 20, then 250 + 20 20 tax, 270 total
+42 marks out of 60 42 / 60 x 100 70%
+36 is 12% of what number? 36 / 0.12 300
+7.5% interest on 2,400 7.5 / 100 x 2,400 180
+
+### Common percentages as fractions
+
+50% is 1/2, 25% is 1/4, 20% is 1/5, 12.5% is 1/8, 10% is 1/10 and 5% is 1/20. If you spot one of these, divide instead of multiplying: 25% of 80 is 80 / 4 = 20.
+
+### Mistakes to avoid
+
+- Stacking percentages by adding them. A 10% rise followed by another 10% is 21%, not 20%, because the second is applied to the larger number.
+- Using the wrong base. In "X is what percent of Y" the total Y is the denominator. 20 is 25% of 80 but 80 is 400% of 20.
+- Mixing percent and percentage points. See the guide to percentage formulas.
+Working with money? The GST calculator adds or removes tax in one step.
+
+### A quick way to do it in your head
+
+Ten percent of a number is the number with the decimal point moved one place left: 10% of 80 is 8. Five percent is half of that, 4. So 15% of 80 is 8 + 4 = 12. One percent is the decimal point moved two places.
+To work out a rise or a fall, use the percentage increase and percentage decrease calculators. The guide to percentage formulas covers the common mistakes.
+
+### Frequently asked questions
+
+How do I calculate X% of a number?
+Divide the percentage by 100 and multiply by the number. 15% of 80 is 15 / 100 x 80 = 12.
+
+How do I find what percent one number is of another?
+Divide the first number by the second and multiply by 100. 12 is 12 / 80 x 100 = 15% of 80.
+
+How do I find the whole number when I know a part and the percentage?
+Divide the part by the percentage as a decimal. If 12 is 15% of a number, the number is 12 / 0.15 = 80.
+
+How do I calculate a percentage of a percentage?
+Multiply them as decimals. 20% of 50% is 0.20 x 0.50 = 0.10, which is 10%. Use the first calculator and enter 20 as the percentage and 50 as the number.
+
+How do I turn a percentage into a decimal?
+Divide by 100, which moves the decimal point two places left. 15% is 0.15, and 7.5% is 0.075.
+
+How do I work out a test score as a percentage?
+Divide the marks you got by the total marks and multiply by 100. 42 out of 60 is 42 / 60 x 100 = 70%.
+
+Why does adding 10% twice not give 20%?
+The second 10% is taken from the already-increased number. 100 up 10% is 110, and 110 up 10% is 121, which is a 21% total rise, not 20%.
+
+What is the difference between a percentage and a percentage point?
+A percentage point is a plain subtraction of two percentages. A rate moving from 10% to 15% is up 5 percentage points, which is a 50% relative increase (5 / 10 x 100).
+
+### Related tools
+
+Percentage Increase Calculator Percentage Decrease Calculator Percent Change Calculator Ratio Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Percentage Increase Calculator: 50 to 65 Is +30%
+
+URL: https://math.streamerosai.com/percentage-increase-calculator/
+
+Free · instant · runs in your browser
+
+## Percentage Increase Calculator
+
+Find the percent increase between two numbers, or raise a number by a percentage. Both answers update as you type.
+
+#### Increase a number by a percentage
+
+Starting number
+Increase by (%)
+80 increased by 25% 100
+
+Change: + 20
+
+#### Find the percentage increase between two numbers
+
+From (old value)
+To (new value)
+Percent increase +30%
+
+Absolute change +15
+
+### The formulas
+
+percentage increase = (new - old) / old x 100
+new value = old x (1 + increase / 100)
+
+### Worked examples
+
+Question Working Answer
+Increase 80 by 25% 80 x 1.25 100
+Percent increase from 50 to 65 (65 - 50) / 50 x 100 30%
+Percent increase from 20 to 70 (70 - 20) / 20 x 100 250%
+
+### Real-world examples
+
+Change Working Result
+Rent from 12,000 to 13,200 (13,200 - 12,000) / 12,000 x 100 10% increase
+A 40 item now costs 46 (46 - 40) / 40 x 100 15% increase
+Salary 50,000 raised by 8% 50,000 x 1.08 54,000
+Users from 1.2 million to 1.5 million (1.5 - 1.2) / 1.2 x 100 25% increase
+
+### How to calculate a percentage increase
+
+- Subtract the old value from the new value to get the amount of the rise.
+- Divide that amount by the old value, not the new one.
+- Multiply by 100 to make it a percentage.
+Worked example: 50 to 65. The rise is 15, 15 / 50 = 0.3, so the increase is 30 %. Going the other way, to raise 80 by 25% you multiply by 1.25 and get 100.
+
+### Increasing a number: the multiplier
+
+To raise a number by a percentage, multiply by 1 plus the percentage. The last column shows the fall that would undo the rise.
+Increase Multiply by 100 becomes Fall needed to get back
+5 % 1.05 105 4.76 %
+10 % 1.1 110 9.09 %
+15 % 1.15 115 13.04 %
+20 % 1.2 120 16.67 %
+25 % 1.25 125 20 %
+50 % 1.5 150 33.33 %
+100 % 2 200 50 %
+200 % 3 300 66.67 %
+After a rise of 100% the value has doubled, and a fall of 50 % takes it back. That is why a percentage rise and the same percentage fall do not cancel.
+
+### Growth over several years
+
+Each year&#x27;s rise is taken on the larger number from the year before, so growth compounds. Total increase after a number of years at a fixed yearly rate:
+Yearly rate After 1 year After 2 years After 3 years After 5 years After 10 years
+3 % 3 % 6.09 % 9.27 % 15.93 % 34.39 %
+5 % 5 % 10.25 % 15.76 % 27.63 % 62.89 %
+8 % 8 % 16.64 % 25.97 % 46.93 % 115.89 %
+
+### Percentage increase or percent change?
+
+They use the same formula. A positive answer is an increase and a negative one a decrease, which the percent change calculator labels for you. If neither value is the starting point, use the percentage difference calculator.
+
+### What this calculator leaves out
+
+It compares two values, or applies one rate once. It does not add interest by the month, tax, or inflation adjustments, and the yearly table above assumes the same rate every year. When the old value is zero there is no percentage increase, because the base would be zero. A rise from a very small number gives a huge percentage that says little, so check the amount of the rise too.
+Prices, salaries, rents and populations are all compared this way. For a pay rise specifically, use the pay raise calculator. For a fall, see the percentage decrease calculator.
+
+### Frequently asked questions
+
+How do I calculate a percentage increase?
+Subtract the old value from the new value, divide by the old value, and multiply by 100. From 50 to 65 is (65 - 50) / 50 x 100 = 30%.
+
+How do I increase a number by a percentage?
+Multiply it by 1 plus the percentage as a decimal. Increasing 80 by 25% is 80 x 1.25 = 100.
+
+Why is going from 50 to 100 a 100% increase but 100 to 50 only a 50% decrease?
+Percent change is measured against the starting value. Doubling adds 100% of 50. Halving removes 50% of 100. The same gap of 50 is a different share of a different starting point.
+
+What is the difference between a percent and a percentage point?
+A rate rising from 4% to 5% is a rise of 1 percentage point, but a 25% increase, because 1 is a quarter of 4.
+
+Can a percentage increase be more than 100%?
+Yes. Any new value more than double the old value is an increase over 100%. From 20 to 70 is (70 - 20) / 20 x 100 = 250%.
+
+How do I find the original number before a percentage increase?
+Divide the new value by 1 plus the percentage as a decimal. If a price is 125 after a 25% rise, the original was 125 / 1.25 = 100.
+
+What happens if a number goes up 20% and then down 20%?
+It ends lower than it started. 100 up 20% is 120, and 120 down 20% is 96, a net fall of 4%, because the 20% drop is taken from the bigger number.
+
+How do I work out growth over several years?
+Multiply by 1 plus the rate once per year. Three years of 5% growth is 1.05 x 1.05 x 1.05 = 1.157625, a total increase of about 15.76%, not 15%.
+
+### Related tools
+
+Percentage Decrease Calculator Percent Change Calculator Percentage Calculator Average Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Percentage Decrease Calculator: 80 to 60 Is -25%
+
+URL: https://math.streamerosai.com/percentage-decrease-calculator/
+
+Free · instant · runs in your browser
+
+## Percentage Decrease Calculator
+
+Find the percent decrease between two numbers, or reduce a number by a percentage, such as a discount. Both answers update as you type.
+
+#### Decrease a number by a percentage
+
+Starting number
+Decrease by (%)
+200 decreased by 15% 170
+
+Change: -30
+
+#### Find the percentage decrease between two numbers
+
+From (old value)
+To (new value)
+Percent decrease -25%
+
+Absolute change -20
+
+### What a percentage decrease is
+
+A percentage decrease says how big a fall is compared with where the value started. The base is always the old value. A fall from 80 to 60 is 20 less than 80, and 20 is 25% of 80, so the decrease is 25%.
+percentage decrease = (old - new) / old x 100
+new value = old x (1 - decrease / 100)
+old value = new value / (1 - decrease / 100)
+
+### How to calculate it
+
+- Subtract the new value from the old value to get the amount of the fall.
+- Divide that amount by the old value, not the new one.
+- Multiply by 100 to make it a percentage.
+Worked example: a monthly bill drops from 240 to 204. The fall is 240 - 204 = 36. Divided by 240 that is 0.15, so the bill fell by 15 %. The calculator&#x27;s first box works the other way round: type 240 and 15 and you get 204.
+
+### Real examples
+
+What fell From To Amount of the fall Percentage decrease
+Monthly electricity bill 240 204 36 15 %
+Website visits in a month 12,500 10,000 2,500 20 %
+Body weight in kg 90 81 9 10 %
+Price of a phone 600 450 150 25 %
+
+### Reducing a number: what is left
+
+When you know the percentage and want the new number, multiply by what is left. This table starts from 100 and also shows the rise needed to get back to 100.
+Decrease Multiply by 100 becomes Rise needed to recover
+5 % 0.95 95 5.26 %
+10 % 0.9 90 11.11 %
+20 % 0.8 80 25 %
+25 % 0.75 75 33.33 %
+30 % 0.7 70 42.86 %
+40 % 0.6 60 66.67 %
+50 % 0.5 50 100 %
+75 % 0.25 25 300 %
+The last column is why a fall hurts more than it looks. After a 50% fall you need a 100% rise to get back, and after a 75% fall you need 300 %.
+
+### When to use percentage decrease
+
+Use it when one value is clearly the starting point and the other is lower: a price that was cut, sales that dropped, a bill that shrank, weight lost. If you are only comparing two numbers with no starting point, such as two measurements, use the percentage difference calculator, which uses the average of the two as the base. If the direction could be either way, the percent change calculator shows a minus sign for a fall. For the opposite case, a rise, use the percentage increase calculator.
+
+### Mistakes to avoid
+
+- Dividing by the new value. From 80 to 60, dividing 20 by 60 gives 33.33 %, which is the rise needed to get back, not the decrease.
+- Adding successive decreases. Two cuts of 20% leave 0.8 x 0.8 = 0.64 of the value, which is 36 % off, not 40%.
+- Mixing up a percentage decrease with a drop in percentage points.
+
+### What this calculator leaves out
+
+It handles one fall at a time. For a price with a second discount stacked on top, or to find the percent off from two prices with the saving shown, use the discount calculator. It does not take tax or rounding into account, and a percentage fall is hard to read when the old value is negative or near zero, so for those cases look at the amount of the change as well. The guide to percentage formulas covers the common mistakes.
+
+### Frequently asked questions
+
+How do I calculate a percentage decrease?
+Subtract the new value from the old value, divide by the old value, and multiply by 100. From 80 to 60 is (80 - 60) / 80 x 100 = 25%.
+
+How do I reduce a number by a percentage?
+Multiply it by 1 minus the percentage as a decimal. Reducing 200 by 15% is 200 x 0.85 = 170.
+
+How do I work out a sale price?
+Multiply the original price by 1 minus the discount. A $50 item at 30% off costs 50 x 0.70 = $35. The discount calculator also shows the saving and stacked discounts.
+
+What is the difference between percentage decrease and percentage difference?
+Percentage decrease has a direction: it measures a fall from an old value and uses the old value as the base. Percentage difference compares two values with no starting point and uses their average as the base. For 80 and 60 the decrease is 25%, but the difference is 20 / 70 x 100 = 28.57%.
+
+What do two discounts in a row add up to?
+They multiply, they do not add. 20% off and then a further 10% off leaves 0.80 x 0.90 = 0.72 of the price, which is 28% off in total, not 30%.
+
+If a value falls 50% and then rises 50%, do I get back to the start?
+No. 100 falls to 50, and 50 rising by 50% is only 75. To get back you need a rise of 100%, because the rise starts from a smaller number.
+
+Can a percentage decrease be more than 100%?
+Not for a value that stays at zero or above: the most it can fall is to 0, which is 100%. It can pass 100% only if the value goes negative. From 20 to -5 is a fall of 125%.
+
+How do I find the original number before a decrease?
+Divide the new value by 1 minus the percentage as a decimal. If a price is 60 after a 25% cut, the original was 60 / 0.75 = 80.
+
+Is a fall of 5 percentage points the same as a 5% decrease?
+No. A rate going from 20% to 15% is down 5 percentage points, but it is a 25% decrease, because 5 / 20 x 100 = 25.
+
+What happens if the new number is bigger than the old one?
+The result is shown as an increase instead, with a plus sign. For a rise, use the percentage increase calculator, or the percent change calculator to see either direction.
+
+### Related tools
+
+Percentage Increase Calculator Percent Change Calculator Percentage Difference Calculator Discount Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Percent Change Calculator: 40 to 50 Is +25%
+
+URL: https://math.streamerosai.com/percent-change-calculator/
+
+Free · instant · runs in your browser
+
+## Percent Change Calculator
+
+Enter an old and a new value to see the percent change, the absolute change and the percent difference. It works in both directions.
+
+#### Percent change between two values
+
+From (old value)
+To (new value)
+Percent increase +25%
+
+Absolute change +10
+Percent difference (vs the average) 22.2222%
+
+### The formulas
+
+percent change = (new - old) / |old| x 100
+percent difference = |a - b| / ((a + b) / 2) x 100
+
+### Worked example
+
+From 40 to 50: the change is 50 - 40 = 10, and 10 / 40 x 100 = +25%. From 50 back to 40 it is -10 / 50 x 100 = -20%. The percent difference between 40 and 50 is 10 / 45 x 100 = 22.22% either way, because the base is the average, 45.
+
+### More worked examples
+
+From, to Working Result
+Sales 1,200 to 1,500 (1,500 - 1,200) / 1,200 x 100 +25%
+Share price 80 to 68 (68 - 80) / 80 x 100 -15%
+Test score 62 to 78 (78 - 62) / 62 x 100 +25.81%
+20 and 30 compared as a difference 10 / 25 x 100 40% difference (20 to 30 as a change is +50%)
+
+### How to calculate percent change
+
+- Subtract the old value from the new value. The sign tells you the direction.
+- Divide by the old value, ignoring its sign. The old value is always the base.
+- Multiply by 100 and add a percent sign. Positive is an increase, negative a decrease.
+
+### The same move in both directions
+
+Going up and coming back are not equal percentages, because each is measured against its own starting value. The percent difference is shown for comparison, since it gives one answer for both.
+From, to Percent change Change back Percent difference
+40 to 50 +25% -20% 22.22 %
+100 to 150 +50% -33.33% 40 %
+200 to 100 -50% +100% 66.67 %
+80 to 120 +50% -33.33% 40 %
+10 to 100 +900% -90% 163.64 %
+
+### The same gap from different starting points
+
+From, to Absolute change Percent change
+10 to 20 10 +100%
+100 to 110 10 +10%
+1,000 to 1,010 10 +1%
+
+### Which one should I use?
+
+- Percent change: when one value is clearly the starting point, such as last year&#x27;s sales and this year&#x27;s.
+- Percent difference: when you compare two values on equal footing, such as two measurements of the same thing.
+
+### What this calculator leaves out
+
+It compares two values. It does not chain several periods into growth over time; for that, multiply by 1 plus the rate for each period, as the percentage increase calculator page shows. When the old value is zero there is no percent change, and when it is negative or near zero the result is hard to interpret, so look at the absolute change as well. The guide to percentage formulas explains percent against percentage points.
+For a plain increase or decrease, see the increase and decrease calculators.
+
+### Frequently asked questions
+
+What is percent change?
+How much a value moved, as a percentage of where it started: (new - old) / old x 100. A positive result is an increase and a negative result is a decrease.
+
+What is the difference between percent change and percent difference?
+Percent change has a direction and uses the old value as the base. Percent difference compares two values with neither as the starting point, using their average as the base, so it comes out the same whichever is first.
+
+Why does 40 to 50 give +25% but 50 to 40 gives -20%?
+Each is measured against its own starting value: 10 is 25% of 40, but only 20% of 50. Percent difference avoids this: both directions give 22.22%.
+
+What happens if the old value is zero?
+The percent change is undefined, because you cannot divide by zero. The calculator asks for a non-zero old value.
+
+How do I use it for negative numbers?
+The formula divides by the size of the old value, so a move from -50 to -25 is shown as a +50% change. For quantities that can cross zero, absolute change is often clearer than a percentage.
+
+How do I calculate percent change in a spreadsheet?
+With the old value in A1 and the new value in B1, enter =(B1-A1)/ABS(A1) and format the cell as a percentage.
+
+How do I calculate percent change step by step?
+Subtract the old value from the new value, divide by the old value, and multiply by 100. For 62 to 78 the change is 16, and 16 / 62 x 100 = 25.81%.
+
+Why does a move of the same size give different percentages?
+Because the base is different. A rise of 10 is +100% from 10, +10% from 100 and +1% from 1,000.
+
+Is a 10% change the same as 10 percentage points?
+No. Moving from 40% to 50% is 10 percentage points, but a 25% change, because 10 / 40 x 100 = 25.
+
+### Related tools
+
+Percentage Increase Calculator Percentage Decrease Calculator Percentage Calculator Average Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Age Calculator: Exact Age in Years, Months and Days
+
+URL: https://math.streamerosai.com/age-calculator/
+
+Free · instant · runs in your browser
+
+## Age Calculator
+
+Enter a date of birth to see your exact age in years, months and days, your total days lived, your next birthday and the weekday you were born.
+Date of birth
+Age on (default: today)
+
+Enter a date of birth to see the age.
+
+### What exact age means
+
+Your age is the time from your date of birth to a chosen date, written as whole years, then whole months, then days. It is not the same as the current year minus your birth year, which is wrong by one for anyone whose birthday has not yet come round this year.
+years = whole years from the birth date to the chosen date
+months = whole months since the last birthday
+days = days since that month anniversary
+
+### How to use the calculator
+
+- Pick your date of birth.
+- Leave Age on as today, or change it to any later date, such as the day an age limit applies.
+- Read the age, the next birthday and the weekday you were born. The table under the result gives total months, weeks and days.
+Worked example: born 15 May 1990, measured on 4 November 2026. The last birthday was 15 May 2026, which makes 36 years. From 15 May to 15 October is 5 months, and from 15 October to 4 November is 20 days. The age is 36 years, 5 months, 20 days, or 13,322 days in total.
+
+### How the parts roll over
+
+The same calculation on one fixed day, 4 November 2026, for six birth dates.
+Date of birth Age on 4 November 2026 Total days Born on a Next birthday
+4 November 2008 18 years, 0 months, 0 days 6,574 Tuesday 4 November 2026
+5 November 2008 17 years, 11 months, 30 days 6,573 Wednesday 5 November 2026
+15 May 1990 36 years, 5 months, 20 days 13,322 Tuesday 15 May 2027
+31 December 1985 40 years, 10 months, 4 days 14,918 Tuesday 31 December 2026
+29 February 2000 26 years, 8 months, 6 days 9,745 Tuesday 28 February 2027
+1 March 2019 7 years, 8 months, 3 days 2,805 Friday 1 March 2027
+Someone born on 4 November 2008 is exactly 18 on the reference day, so the months and days are zero. Born one day later, on 5 November 2008, they are still 17 and their birthday is a day away.
+
+### Why the same number of years is not always the same number of days
+
+A leap year has 366 days, so the number of leap days inside a span changes the total. Someone born on 1 January 2000 and someone born on 1 January 2001 both reach their 18th birthday after 18 years, but not after the same number of days.
+Years lived Days from 1 Jan 2000 Days from 1 Jan 2001
+18 6,575 6,574
+21 7,671 7,670
+30 10,958 10,957
+40 14,610 14,610
+65 23,742 23,741
+
+### Leap years and 29 February
+
+A year is a leap year if it is divisible by 4, except that a century year must be divisible by 400. The extra day keeps the calendar in step with a solar year of about 365.2422 days (NIST, see Sources).
+Year Leap year? Days in the year
+1900 No 365
+2000 Yes 366
+2023 No 365
+2024 Yes 366
+2026 No 365
+2028 Yes 366
+2100 No 365
+A person born on 29 February has no birthday in a common year. This calculator uses 28 February in those years, so for someone born on 29 February 2004 the next birthday after 16 November 2026 is 28 February 2027, and after 16 November 2027 it is 29 February 2028. Another reasonable rule is 1 March. Which one applies to a legal age limit depends on the country, so for a legal purpose check the rule yourself.
+
+### Month ends
+
+Months have 28 to 31 days, so “one month after the 31st” needs a rule. The calculator adds whole months to the birth date and moves back to the last day of the month when the day does not exist. That is why someone born on 31 January 2000 is 26 years, 1 months, 0 days old on 28 February 2026 but 26 years, 1 months, 1 days old on 1 March. The same rule is used by the date calculator, and the guide to counting days between dates explains the reasoning.
+
+### What this calculator leaves out
+
+It works on calendar dates only. It does not use the time of birth or time zones, so it cannot tell you the hour you turn a year older. It uses the Gregorian calendar throughout, so it is not meant for dates in other calendar systems. It does not decide legal ages: the age of majority, school entry and retirement rules are set by each country, and so are the rules for 29 February. For the gap between two dates that are not a birth date, use the days between dates calculator.
+
+### Sources
+
+- NIST: Leap seconds FAQs (the leap-year rule and the 365.2422-day year), checked 16 November 2026.
+
+### Frequently asked questions
+
+How is age calculated in years, months and days?
+Whole calendar years are counted from the date of birth, then whole months, then the remaining days. Someone born on 15 May 1990 is, on 4 November 2026, 36 years, 5 months and 20 days old.
+
+How do I calculate my age from my date of birth?
+Subtract the birth year from the current year. If your birthday has not happened yet this year, subtract one more. Then count the whole months since your last birthday, and the days since the month anniversary. The calculator does all three steps at once.
+
+How many days old am I?
+The Total days row counts every calendar day from your birth date to the date measured, leap days included. Someone born on 15 May 1990 is 13,322 days old on 4 November 2026.
+
+Does the day of birth count?
+The age is measured from the birth date to the chosen date, so the birth date itself is day zero. You turn a year older on your birthday, not the day after.
+
+How is a 29 February birthday handled?
+In years that are not leap years, this calculator treats 28 February as the anniversary. Born on 29 February 2004, you are 22 years, 0 months, 0 days old on 28 February 2026 and one day older on 1 March. Some places legally use 1 March instead, so for a legal purpose check the rule that applies to you.
+
+Can I find my age on a past or future date?
+Yes. Change the Age on date. It starts as today, but you can set any date after the date of birth, such as the first day of a school year or the day an age limit applies.
+
+How do I find the age difference between two people?
+Enter the older person&#x27;s birth date as the date of birth and the younger person&#x27;s birth date in Age on. The result is the gap between them in years, months and days.
+
+What weekday was I born on?
+The Born on a tile shows it. 15 May 1990, for example, was a Tuesday.
+
+Why do two age calculators sometimes disagree by a day?
+Month ends. Whole months are added to the birth date, and if the day does not exist in the target month it is moved back to the last day. Born on 31 January 2000, you are 26 years, 1 months, 0 days old on 28 February 2026 and 26 years, 1 months, 1 days old on 1 March. Another tool may count the days differently, so both answers can be defensible.
+
+Is my date of birth stored or sent anywhere?
+No. The calculation runs in your browser and nothing is uploaded.
+
+### Related tools
+
+Days Between Dates Calculator Date Calculator Percentage Calculator Hours Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Days Between Dates Calculator (Calendar and Working Days)
+
+URL: https://math.streamerosai.com/days-between-dates-calculator/
+
+Free · instant · runs in your browser
+
+## Days Between Dates Calculator
+
+Choose two dates to see the number of days between them, in weeks and months, with working days. It handles leap years and month lengths.
+Start date
+End date
+Count the end date too
+Choose both dates.
+
+### What the calculator counts
+
+The number of days between two dates is the later date minus the earlier one, counted in whole calendar days. From 2 November to 9 November is 7 days: you count the nights, not the dates themselves. Tick Count the end date too if both the first and last day should be included.
+days between = end date - start date
+inclusive = days between + 1
+weeks = days between / 7 (whole weeks and the rest)
+
+### How to use it
+
+- Choose the start date and the end date. Both start as today.
+- Decide whether the end date should count. For “how many days until”, leave it unticked. For “how many days does this event cover”, tick it.
+- Read the days, the weeks and months, and the working days. The table lists the years, months and days and the weekend days.
+Worked example: Monday 2 November 2026 to Monday 9 November 2026. That is 7 days, one week, with 5 working days and 2 weekend days.
+
+### Examples
+
+From To Days Counting both ends Working days (end date not counted)
+1 January 2026 31 December 2026 364 365 260
+1 January 2024 1 January 2025 366 367 262
+2 November 2026 9 November 2026 7 8 5
+1 February 2026 1 March 2026 28 29 20
+1 February 2028 1 March 2028 29 30 21
+4 November 2026 1 January 2027 58 59 42
+
+### Working days
+
+Working days are Monday to Friday. The count depends on which weekday the span starts on, because a span of the same length can contain more or fewer weekends. Here is a span of 10 days starting on each weekday.
+Span starts on Working days in the next 10 days
+Monday 8
+Tuesday 8
+Wednesday 8
+Thursday 7
+Friday 6
+Saturday 6
+Sunday 7
+The end date is not counted unless you tick the box, so a Monday-to-Monday span is five working days, not six.
+
+### Month lengths and day of the year
+
+The table shows how many days pass between 1 January and the first of each month. 2028 is a leap year, so every month after February is one day later.
+1st of Days in the month (2026) Days since 1 Jan 2026 Days since 1 Jan 2028
+January 31 0 0
+February 28 31 31
+March 31 59 60
+April 30 90 91
+May 31 120 121
+June 30 151 152
+July 31 181 182
+August 31 212 213
+September 30 243 244
+October 31 273 274
+November 30 304 305
+December 31 334 335
+A year is a leap year when it is divisible by 4, except that a century year must be divisible by 400. The extra day keeps the calendar in step with a solar year of about 365.2422 days (NIST, see Sources).
+
+### How it works
+
+Dates are converted to whole day numbers in UTC, so daylight-saving changes never add or remove an hour. The years, months and days figure adds whole calendar months to the start date and then counts the remaining days. If the day does not exist in the target month it moves back to the last day, so 31 January plus one month is the end of February.
+
+### What this calculator leaves out
+
+It works on calendar dates, not times, so it cannot count hours and minutes; use the hours calculator for that. It ignores time zones and public holidays, and it counts Saturday and Sunday as the weekend everywhere, which is not true in every country. To move a date forward or back by a number of days, use the date calculator. To get an exact age, use the age calculator. For why inclusive and exclusive counts differ, read how to count days between dates.
+
+### Sources
+
+- NIST: Leap seconds FAQs (the leap-year rule and the 365.2422-day year), checked 16 November 2026.
+
+### Frequently asked questions
+
+How do I count the days between two dates?
+Subtract the earlier date from the later one. From 1 January to 31 December 2026 is 364 days. If you also count the end date, it is 365.
+
+Should I count the start date or the end date?
+It depends on the question. The difference between two dates counts neither end. Counting how many days an event covers, such as a 3-day course from Monday to Wednesday, counts both. Tick Count the end date too for that.
+
+How many working days are between two dates?
+The calculator counts Monday to Friday days from the start date up to the end date, excluding weekends. From Monday 2 November to Monday 9 November 2026 is 7 days and 5 working days. Public holidays are not excluded.
+
+How do I find how many days are left until a date?
+Leave the start date as today and enter the future date as the end date. The Days between tile is the number of days left.
+
+How many days are there between today and a past date?
+Enter the past date as the start and leave the end as today. If you enter them the other way round, the calculator swaps the dates and tells you so, so the answer is never negative.
+
+How many weeks are between two dates?
+Divide the days by 7. The Days between tile shows whole weeks and the days left over: 7 days is 1 week and 0 days.
+
+How many months are between two dates?
+The calculator adds whole calendar months to the start date and counts the days left. Months differ in length, so this is not days divided by 30. From 2 November to 2 December is one month, however many days that is.
+
+Does it handle leap years?
+Yes. 1 January 2024 to 1 January 2025 is 366 days because 2024 has a 29 February. February 2026 has 28 days and February 2028 has 29.
+
+Why does my answer differ from another tool by one day?
+Almost always inclusive versus exclusive counting. This calculator counts the gap between the dates by default, so 1 to 2 November is 1 day. Tick Count the end date too to count both days, which gives 2.
+
+Does it subtract public holidays from working days?
+No. Holidays differ by country and region, so the working-day figure excludes Saturdays and Sundays only. Subtract your own holidays from it.
+
+### Related tools
+
+Date Calculator Age Calculator Hours Calculator Percentage Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Date Calculator: Add or Subtract Days, Months, Years
+
+URL: https://math.streamerosai.com/date-calculator/
+
+Free · instant · runs in your browser
+
+## Date Calculator
+
+Add or subtract years, months and days from any date, and see the new date and the day of the week.
+Start date
+Operation Add Subtract
+Years
+Months
+Days
+
+Choose a start date and enter whole numbers for years, months and days.
+
+### Examples
+
+Start Change Result
+4 November 2026 + 30 days 4 December 2026 (Friday)
+1 January 2026 + 90 days 1 April 2026
+31 January 2026 + 1 month 28 February 2026
+15 March 2026 - 6 months 15 September 2025
+
+### When people use it
+
+- Payment terms: an invoice dated 1 December 2026 with net 45 terms is due on 15 January 2027, a Friday.
+- Deadlines and notice periods: 90 days from 14 November 2026 is 12 February 2027.
+- Looking back: 60 days before 1 March 2026 is 31 December 2025.
+- Leap years: 31 January 2028 plus 1 month is 29 February 2028.
+
+### Why months need care
+
+A month is not a fixed number of days, so adding a month moves to the same day number in the next month. When that day does not exist, the result is the last day of the month. To measure the gap between two dates instead, use the days between dates calculator.
+
+### Weeks, days and chained months
+
+Adding weeks is adding 7 days each: 4 weeks after 4 November 2026 is 28 days later, 2 December 2026. Months are different because the end-of-month rule is applied once, to the final result. Adding 2 months to 31 January 2026 gives 31 March 2026, the same day number. Adding 1 month twice, one step at a time, gives 28 February and then 28 March, because the first step already lost the 31st. So when you need a date a number of months ahead, add all the months in one go from the original date.
+The calculator works on calendar dates, not timestamps, so a daylight-saving change never moves the answer by a day. It does not know public holidays or weekends: if a deadline falls on one, check the rule in the contract or law that sets it, since some roll to the next working day and some do not. The guide to counting days between dates covers inclusive counting and working days.
+
+### Frequently asked questions
+
+How do I add days to a date?
+Choose the start date, leave the operation on Add, enter the number of days, and read the result. 30 days after 4 November 2026 is 4 December 2026, a Friday.
+
+How do I find the date 90 days from today?
+Leave the start date as today and enter 90 in Days. Starting from 1 January 2026, 90 days later is 1 April 2026.
+
+What happens when I add a month to the 31st?
+If the target month is shorter, the date moves to its last day. 31 January 2026 plus 1 month is 28 February 2026, and in a leap year it is 29 February.
+
+In what order are years, months and days applied?
+Years and months are added first, as whole calendar months, and then the days. Doing the months first matters because month lengths vary.
+
+How do I go back in time?
+Change the operation to Subtract. For example, subtracting 6 months from 15 March 2026 gives 15 September 2025.
+
+What is the date 90 days from 14 November 2026?
+12 February 2027, a Friday. Add 90 days to the start date and the calculator also shows the weekday.
+
+What is 29 February plus one year?
+The result is 28 February of the next year when that year is not a leap year. 29 February 2028 plus 1 year is 28 February 2029.
+
+Does this count working days?
+No, it adds calendar days. To count working days between two dates, use the days between dates calculator.
+
+### Related tools
+
+Days Between Dates Calculator Age Calculator Hours Calculator Percentage Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Hours Calculator: 9:00 to 17:30 Is 8 Hours
+
+URL: https://math.streamerosai.com/hours-calculator/
+
+Free · instant · runs in your browser
+
+## Hours Calculator
+
+Enter start and end times with a break for each day. You get the time worked per day and in total, in hours and minutes and in decimal hours.
+Day 1: start
+End
+Break (minutes)
+7:30
+
+Total time 7:30 (7.5 hours)
+Decimal hours 7.5
+Days counted 1
+
+If an end time is earlier than the start time, the shift is counted as ending the next day.
+
+### The method
+
+worked minutes = (end - start) - break
+decimal hours = worked minutes / 60 Times are entered on a 24-hour clock. An end time earlier than the start is treated as the next day.
+
+### Minutes as decimal hours
+
+Minutes Decimal hours
+15 0.25
+30 0.50
+45 0.75
+20 0.33
+
+### Worked examples
+
+Start End Break Time worked Decimal hours
+09:00 17:00 30 min 7:30 7.5
+08:45 17:15 45 min 7:45 7.75
+07:00 15:20 20 min 8:00 8
+22:00 06:00 (next day) 30 min 7:30 7.5
+
+### A whole week
+
+Press Add another day for each shift. One week of five shifts: Monday 09:00 to 17:30 with a 30 minute break (8:00), Tuesday the same (8:00), Wednesday 08:30 to 16:00 with 30 minutes (7:00), Thursday 09:00 to 18:00 with an hour (8:00) and Friday 09:00 to 13:00 with no break (4:00). The total is 35:00, or 35 decimal hours. At 12.50 an hour that is 35 x 12.50 = 437.50.
+
+### Common mistakes
+
+- Writing 7 hours 45 minutes as 7.45. Minutes must be divided by 60: 45 minutes is 0.75, so the answer is 7.75.
+- Rounding 20 minutes to 0.3 or 0.33 and then multiplying by a rate. The error is small per shift but adds up over a month. Keep the extra digits until the final pay figure.
+- Entering the break in hours. The break box is in minutes, so one hour is 60.
+- Using 12-hour times. Enter 17:30, not 5:30, or the shift will be counted the wrong way round.
+- Forgetting that the same start and end time gives zero, not a 24 hour shift, and that a break longer than the shift is rejected.
+
+### What this calculator does not do
+
+It works on clock times only, so it does not know about daylight saving changes, which can make a night shift an hour longer or shorter on two nights a year, or about paid and unpaid break rules, rounding policies and overtime thresholds. Those depend on your contract and local law. To add or subtract lengths of time that are not tied to a clock, such as 2 hours 30 minutes plus 1 hour 45 minutes, use the time calculator.
+To turn hours into pay, multiply the decimal hours by the hourly rate, or use the overtime pay calculator when some hours are paid at a higher rate. For dates rather than times, see the days between dates calculator.
+
+### Frequently asked questions
+
+How do I calculate hours worked between two times?
+Subtract the start time from the end time and then subtract any unpaid break. 9:00 to 17:30 with a 30 minute break is 8 hours 30 minutes minus 30 minutes, which is 8 hours.
+
+How do I convert hours and minutes to decimal hours?
+Divide the minutes by 60 and add them to the hours. 7 hours 45 minutes is 7 + 45 / 60 = 7.75 hours. 20 minutes is 0.33 of an hour.
+
+What about shifts that go past midnight?
+If the end time is earlier than the start time, the shift is counted as ending the next day. 22:00 to 06:00 is 8 hours.
+
+Can I add up several days?
+Yes. Press Add another day for each shift and the total is the sum of all of them, in hours and minutes and in decimal hours.
+
+Which format do payroll systems use?
+Many use decimal hours, but rounding rules differ between employers. Check how yours rounds minutes before relying on a figure.
+
+Why is 7:45 not 7.45 hours?
+Because minutes are out of 60, not 100. 45 minutes is 45 / 60 = 0.75 of an hour, so 7 hours 45 minutes is 7.75 hours. Typing 7.45 into a timesheet underpays you by 18 minutes.
+
+What if my start and end time are the same?
+This calculator counts that as 0 minutes, not 24 hours. If you really worked a full day, enter an end time one minute earlier, such as 08:59 for a shift that began at 09:00.
+
+What if my break is longer than the shift?
+The row shows Check the times instead of a negative number. Make sure the break is in minutes (30, not 0.5) and that the start and end are on the 24-hour clock.
+
+How do I enter 12-hour times like 5:30 pm?
+Use the 24-hour clock: 5:30 pm is 17:30, noon is 12:00 and midnight is 00:00. Add 12 to any pm hour from 1 to 11.
+
+How do I turn my total hours into pay?
+Multiply the decimal hours by your hourly rate. 35 hours at 12.50 an hour is 35 x 12.50 = 437.50. Use the decimal figure, not the hours-and-minutes one, for this multiplication.
+
+### Related tools
+
+Days Between Dates Calculator Date Calculator Percentage Calculator Average Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Time Calculator: 2 h 30 min + 1 h 45 min = 4 h 15 min
+
+URL: https://math.streamerosai.com/time-calculator/
+
+Free · instant · runs in your browser
+
+## Time Calculator
+
+Add or subtract two lengths of time. Enter days, hours, minutes and seconds, and the result is shown in words and as total hours and minutes.
+First time Days
+Hours
+Minutes
+Seconds
+
+Operation Add (+) Subtract (−)
+
+Second time Days
+Hours
+Minutes
+Seconds
+
+Result 4 hours, 15 minutes
+Total hours 4.25
+Total minutes 255
+
+### How the calculator works
+
+Each time is turned into seconds (days x 86,400, hours x 3,600, minutes x 60, plus seconds), the two numbers are added or subtracted, and the total is split back into days, hours, minutes and seconds. Because the sum is done in one unit, carrying between units is always right.
+
+### Examples
+
+Sum Result
+2 h 30 min + 1 h 45 min 4 hours, 15 minutes
+20 h + 8 h 1 day, 4 hours
+1 h - 2 h 30 min -1 hour, 30 minutes
+
+### Everyday uses
+
+Situation Sum Result
+Two videos back to back 1 h 12 min 30 s + 48 min 45 s 2 hours, 1 minute, 15 seconds
+Time left on a project 3 h 10 min - 1 h 55 min 1 hour, 15 minutes
+Flight plus layover 7 h 50 min + 2 h 35 min 10 hours, 25 minutes
+Two work spells across days 1 day 18 h + 9 h 2 days, 3 hours
+Carrying across the hour 59 min 45 s + 30 s 1 hour, 15 seconds
+The first example above checks out in seconds too: 2 h 30 min is 9,000 seconds, 1 h 45 min is 6,300, and 9,000 + 6,300 = 15,300, which is 4 x 3,600 + 15 x 60.
+
+### Common mistakes
+
+- Treating the minutes like decimals. 1 hour 45 minutes is 1.75 hours, not 1.45, and 1.5 hours is 1 hour 30 minutes, not 1 hour 50.
+- Forgetting to carry: 75 minutes is 1 hour 15 minutes, so 3 h 75 min should read 4 h 15 min.
+- Subtracting in the wrong order, which flips the sign of the answer.
+- Using it for clock times. 22:30 plus 3 hours is a clock question that rolls past midnight; this tool adds lengths, so 22 h 30 min + 3 h simply reads 1 day, 1 hour, 30 minutes.
+
+### When not to use it
+
+Calendar spans such as months and years are not a fixed number of seconds, and clock changes make some days 23 or 25 hours long, so use the date calculator for those. For a percentage of a time total, such as 15% of a 40 hour week, see the percentage calculator.
+For shifts with a start time, an end time and a break, use the hours calculator. To move a calendar date forward or back, use the date calculator.
+
+### Frequently asked questions
+
+How do I add hours and minutes?
+Add the hours together and the minutes together, then carry every 60 minutes into an extra hour. 2 hours 30 minutes plus 1 hour 45 minutes is 3 hours 75 minutes, which is 4 hours 15 minutes.
+
+How do I subtract one time from another?
+Work in minutes: convert both to minutes, subtract, then convert back. 2 hours 30 minutes minus 1 hour is 90 minutes, or 1 hour 30 minutes. If the second time is longer, the result is negative.
+
+How do I convert minutes to hours?
+Divide the minutes by 60. 90 minutes is 1.5 hours, and 45 minutes is 0.75 hours.
+
+What happens when the hours pass 24?
+They roll over into days. 20 hours plus 8 hours is 28 hours, which the calculator shows as 1 day and 4 hours.
+
+Is this the same as a clock-time calculator?
+No. This adds and subtracts lengths of time. To find how long you worked between a start time and an end time, use the hours calculator.
+
+How do I add more than two times?
+Add two, then use the result as the first time for the next one. A flight of 7 hours 50 minutes plus a 2 hour 35 minute layover is 10 hours 25 minutes; add a 3 hour 40 minute second flight and the trip is 14 hours 5 minutes.
+
+Why is 1.5 hours not 1 hour 50 minutes?
+Because the digits after the point are fractions of 60 minutes, not minutes. 0.5 of an hour is 30 minutes, so 1.5 hours is 1 hour 30 minutes. To go the other way, 1 hour 50 minutes is 1 + 50 / 60 = 1.83 hours.
+
+Can I enter 90 minutes in the minutes box?
+Yes. Any whole number works and the answer is carried over. 90 minutes in the first time and 0 in the second reads as 1 hour, 30 minutes.
+
+Does this account for clock changes or time zones?
+No. A day here is always exactly 24 hours. It adds lengths of time, not clock times, so daylight saving and time zones do not enter into it.
+
+Why does the answer show a minus sign?
+You subtracted a longer time from a shorter one. 45 minutes minus 1 hour 20 minutes is minus 35 minutes: the second time is 35 minutes longer than the first.
+
+### Related tools
+
+Hours Calculator Days Between Dates Calculator Date Calculator Average Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Percentage Difference Calculator: Compare Two Numbers
+
+URL: https://math.streamerosai.com/percentage-difference-calculator/
+
+Free · instant · runs in your browser
+
+## Percentage Difference Calculator
+
+Enter two numbers to see the percentage difference between them. It uses their average as the base, so the answer is the same whichever you enter first.
+
+#### Percentage difference between two values
+
+First value
+Second value
+Percentage difference 22.2222%
+
+Absolute difference 10
+Average of the two 45
+
+As a change with a direction: 40 to 50 is +25%, and 50 to 40 is -20%.
+
+### What percentage difference means
+
+Percentage difference answers “how far apart are these two numbers, as a share of their size?” when neither number is the original. Because there is no starting point, the base is the average of the two values. That makes the answer symmetric: it does not change if you swap them.
+percentage difference = |a - b| / ((a + b) / 2) x 100
+
+### How to calculate it
+
+- Subtract one number from the other and ignore the sign. That is the gap.
+- Add the two numbers and divide by 2. That is the average.
+- Divide the gap by the average and multiply by 100.
+Worked example: two shops sell the same item for 48 and 54. The gap is 6. The average is 51. Then 6 / 51 x 100 = 11.76 %. Neither shop is the “old” price, so neither is the base.
+
+### Percentage difference against percent change
+
+The same two numbers give three different percentages depending on the question. Percent change needs a starting value and has a direction. Percentage difference does not.
+Values Gap Average Percentage difference Change, first to second Change, second to first
+40 and 50 10 45 22.22 % +25% -20%
+100 and 150 50 125 40 % +50% -33.33%
+1,000 and 1,100 100 1,050 9.52 % +10% -9.09%
+20 and 30 10 25 40 % +50% -33.33%
+1 and 2 1 1.5 66.67 % +100% -50%
+0 and 10 10 5 200 % undefined -100%
+Ignoring the sign, the percentage difference always sits between the two changes, and it is the same in both directions. When the two numbers are close, all three are close; the further apart they are, the more the two changes pull away from the difference.
+
+### Everyday comparisons
+
+Comparison Value 1 Value 2 Percentage difference
+Two shops sell the same item 48 54 11.76 %
+Two readings of the same length (cm) 12.4 12.9 3.95 %
+Two estimates of a project cost 18,000 22,000 20 %
+
+### Which percentage should I use?
+
+- Percentage difference for two values on equal footing, with the average as the base.
+- Percent change when one value is the old value and you want the move from it, with a sign.
+- Percent error when one value is a known true or accepted value. Divide by that value instead of the average.
+
+### What this calculator leaves out
+
+It compares two numbers only. For a list of numbers, the spread is described by the standard deviation. It gives no answer when the two numbers average to zero, because the base would be zero. It also does not say which value is larger; the extra line under the result shows the change in each direction. For a plain rise or fall from a starting value, see the percentage increase and percentage decrease calculators. The guide to percentage formulas explains when each applies.
+
+### Frequently asked questions
+
+How do I calculate the percentage difference between two numbers?
+Divide the gap between them by their average, then multiply by 100. For 40 and 50 the gap is 10 and the average is 45, so the difference is 10 / 45 x 100 = 22.22%.
+
+What is the difference between percentage difference and percent change?
+Percent change measures a move from an old value to a new one and uses the old value as the base. Percentage difference compares two values neither of which is the starting point, using their average as the base, so the order does not matter.
+
+Why not just divide by one of the numbers?
+Then the answer would depend on which number you chose. Using the average treats both equally: 40 and 50 give 22.22% in either order, while a change from 40 to 50 is +25% and from 50 to 40 is -20%.
+
+When should I use percentage difference?
+When you compare two measurements of the same kind with no obvious starting point, such as two lab results, two prices from different shops, or two estimates.
+
+What if one number is zero?
+It still works as long as the average is not zero. 0 and 10 have an average of 5, so the difference is 10 / 5 x 100 = 200%. Two numbers that cancel, such as -5 and 5, have an average of 0 and no percentage difference.
+
+What is the largest possible percentage difference?
+For two numbers that are zero or positive it is 200%, reached when one of them is 0. Always being at or below 200% is one reason it behaves differently from percent change, which has no upper limit: 10 to 100 is +900%, while the difference between 10 and 100 is 163.64%.
+
+Is percentage difference the same as percent error?
+No. Percent error compares a measured value with an accepted or true value and divides by that accepted value: |measured - true| / |true| x 100. Percentage difference has no true value, so it divides by the average of the two. Use percent error when one number is the reference.
+
+Can the percentage difference be negative?
+No. It uses the size of the gap, so it is always zero or positive, and it is zero only when the two numbers are equal. If you need to know which value is bigger, use percent change.
+
+How do I turn two numbers into a percentage difference in a spreadsheet?
+With the values in A1 and B1, enter =ABS(A1-B1)/((A1+B1)/2) and format the cell as a percentage.
+
+Does the order I type the numbers in matter?
+No. That is the point of the measure. 40 and 50 give 22.22%, and so do 50 and 40.
+
+### Related tools
+
+Percent Change Calculator Percentage Increase Calculator Percentage Calculator Average Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Discount Calculator: Sale Price and Percentage Off
+
+URL: https://math.streamerosai.com/discount-calculator/
+
+Free · instant · runs in your browser
+
+## Discount Calculator
+
+Find the sale price and how much you save, stack a second discount, or work out what percent off a sale price really is.
+
+#### Sale price after a discount
+
+Original price
+Discount (%)
+Extra discount (%), optional
+
+Sale price 60
+You save 20
+Total discount 25%
+
+#### What discount is it?
+
+Original price
+Sale price
+Discount 25%
+
+Saving: 30. You pay 75 % of the original price.
+
+#### Original price before the discount
+
+Price you paid
+Discount it had (%)
+Price before the discount 80
+
+The discount took off 20.
+
+### How a discount works
+
+A discount of 25% takes a quarter off the price, so you pay the other 75%. The quickest way to the sale price is to multiply the original price by what is left. That is 1 minus the discount as a decimal.
+sale price = original x (1 - discount / 100)
+you save = original - sale price
+percent off = (original - sale) / original x 100
+original price = sale price / (1 - discount / 100)
+
+### How to use the calculator
+
+- Type the original price and the discount. The sale price and the saving appear straight away.
+- If there is a second discount, such as a coupon on top of a sale, type it in the extra discount box. The calculator applies it to the already reduced price.
+- If you only know the two prices, use the next box to see the percent off and the saving. If you know the price you paid and the discount, the last box finds the original price.
+Worked example: $80 at 25% off. 80 x 0.75 = $ 60, so the saving is $ 20.
+
+### Sale price at common discounts
+
+Discount Sale price of 40 Sale price of 80 Sale price of 250
+5 % off 38 76 237.5
+10 % off 36 72 225
+15 % off 34 68 212.5
+20 % off 32 64 200
+25 % off 30 60 187.5
+30 % off 28 56 175
+40 % off 24 48 150
+50 % off 20 40 125
+60 % off 16 32 100
+70 % off 12 24 75
+
+### Two discounts in a row
+
+The second discount is taken from the price that is already reduced, so the two percentages do not add up. Starting from 100:
+First, then second You pay Real discount If you added them
+10 % then 10 % 81 19 % 20 %
+20 % then 10 % 72 28 % 30 %
+25 % then 25 % 56.25 43.75 % 50 %
+30 % then 20 % 56 44 % 50 %
+50 % then 20 % 40 60 % 70 %
+
+### Working back to the original price
+
+If you know what you paid and the discount it had, divide by what was left. The calculator&#x27;s last box does this.
+Price paid Discount Original price Taken off
+60 25 % 80 20
+34 15 % 40 6
+72 28 % 100 28
+45 50 % 90 45
+A common mistake is to add the discount to the price paid: 25% of 60 is 15, but the original price is not 75. The 25% was taken from the original, so the original is 60 / 0.75 = 80.
+
+### Discount and sales tax
+
+Both are multipliers, so the order does not change the final total: 80 x 0.75 x 1.08 = 64.8. The tax amount does change, because it is charged on a smaller price if the discount comes first. The calculator does not add tax; take the sale price it gives and multiply by 1 plus your rate.
+
+### Which percentage tool should I use?
+
+- This calculator for a shop price: sale price, saving, stacked coupons.
+- Percentage decrease for any fall between two numbers, not only prices.
+- Percentage calculator for X% of a number and other basic percentage questions.
+
+### What this calculator leaves out
+
+It works on the price you type. It does not add sales tax or delivery, does not know about minimum spend or coupon rules, and shows results to two decimal places, so a shop&#x27;s till may round a cent differently. It does not compare unit prices, such as price per kilogram, which is the fair way to compare two pack sizes. For a rise rather than a fall, use the percentage increase calculator. The guide to percentage formulas covers the common mistakes.
+
+### Frequently asked questions
+
+How do I calculate a sale price?
+Multiply the original price by 1 minus the discount as a decimal. An $80 item at 25% off costs 80 x 0.75 = $60, so you save $20.
+
+How do I find the percent off from two prices?
+Subtract the sale price from the original, divide by the original, and multiply by 100. From $120 down to $90 is (120 - 90) / 120 x 100 = 25% off.
+
+What do two discounts in a row add up to?
+They multiply, they do not add. 20% off and then a further 10% off leaves 0.80 x 0.90 = 0.72 of the price, which is 28% off in total, not 30%. Use the extra discount box to see it.
+
+How do I work out the original price from the sale price?
+Divide the sale price by 1 minus the discount. If an item costs $60 after 25% off, the original price was 60 / 0.75 = $80. The calculator has a box for this.
+
+How much is 20% off?
+Take 20% of the price and subtract it, or multiply by 0.80. 20% off $50 is $40, a saving of $10. The table above lists the sale price at other common discounts.
+
+Is it better to have a discount before or after tax?
+The total is the same either way when both are percentages. $80 at 25% off and 8% tax is $64.8 whichever comes first. What differs is the amount of tax: tax on the sale price is lower than tax on the full price. Which one applies depends on how the shop or the tax rules treat the discount.
+
+Does it include sales tax?
+No. The calculator works on the price you enter. Sales tax is usually added after the discount, so multiply the sale price by 1 plus your tax rate. With 8% tax, $60 becomes $64.8.
+
+What is buy one get one 50% off really worth?
+On two items at the same price it is a 25% discount on the pair. For two $40 items you pay 40 + 20 = $60 instead of $80, which is $20 off, or 25%. Enter 80 and 60 in the two-price box to check.
+
+Is 30% off and 20% off the same as 50% off?
+No. Taken one after the other, they leave 56% of the price, so the discount is 44%. 50% off would leave 50%.
+
+Can I use it to find a markup or a price increase?
+Not directly. A markup goes up from the original price, so use the percentage increase calculator. It uses the same method with 1 plus the percentage instead of 1 minus it.
+
+### Related tools
+
+Percentage Decrease Calculator Percentage Calculator Percent Change Calculator Ratio Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Standard Deviation Calculator: Sample and Population
+
+URL: https://math.streamerosai.com/standard-deviation-calculator/
+
+Free · instant · runs in your browser
+
+## Standard Deviation Calculator
+
+Paste a list of numbers to get the sample and population standard deviation, the variance and the mean. Separate numbers with commas, spaces or new lines.
+Numbers (separated by commas, spaces or new lines) 4, 8, 8, 10, 15
+Sample standard deviation (s) 4
+Population standard deviation (σ) 3.577709
+Mean 9
+
+Count 5
+Sum 45
+Minimum 4
+Maximum 15
+Range 11
+Sum of squared differences 64
+Variance (population) 12.8
+Variance (sample) 16
+
+### What standard deviation tells you
+
+Standard deviation is the typical distance of the values in a list from their mean. Two lists can have the same mean and very different spread: 48, 50, 52 and 30, 50, 70 both average 50, but their sample standard deviations are 2 and 20. The mean alone hides that difference.
+
+### The formulas
+
+mean = sum / n
+population variance = sum of (x - mean)^2 / n
+sample variance = sum of (x - mean)^2 / (n - 1)
+standard deviation = square root of the variance The sample formula, with N - 1 in the denominator, is the one NIST gives for the standard deviation of a sample (see Sources).
+
+### How to calculate it, step by step
+
+- Add the numbers and divide by how many there are. That is the mean.
+- Subtract the mean from each number. Square each result so that negatives do not cancel.
+- Add the squares.
+- Divide by n for a whole group, or by n - 1 for a sample. That is the variance.
+- Take the square root. That is the standard deviation.
+
+### Worked example
+
+For 2, 4, 4, 4, 5, 5, 7, 9, the mean is 40 / 8 = 5.
+Value (x) x - mean (x - mean) squared
+2 -3 9
+4 -1 1
+4 -1 1
+4 -1 1
+5 0 0
+5 0 0
+7 2 4
+9 4 16
+Total 0 32
+The population variance is 32 / 8 = 4, so the population standard deviation is 2. The sample variance is 32 / 7 = 4.5714, so the sample standard deviation is 2.1381.
+
+### Sample or population: how much does it matter?
+
+The sample figure is the population figure multiplied by the square root of n / (n - 1). The gap is large for tiny lists and shrinks as the list grows.
+Number of values (n) Sample is larger by
+2 41.42 %
+3 22.47 %
+5 11.8 %
+10 5.41 %
+30 1.71 %
+100 0.5 %
+
+### Mistakes to avoid
+
+- Using the population figure for a small sample. With 8 values it understates the spread by about 6.5 %.
+- Reading variance as if it were in your units. A variance of 4 for numbers in metres is in square metres. Take the square root to get back to metres.
+- Comparing standard deviations of data on different scales. A spread of 5 means different things for heights in centimetres and for incomes.
+- Leaving out a value because it looks odd. One extreme value can change the result a lot.
+
+### What this calculator leaves out
+
+It takes a plain list of values. It does not accept frequency tables or weights, does not give a standard error or a confidence interval, and does not flag outliers. It also does not tell you whether your data is a sample or the whole group; that depends on how it was collected. For the mean, median and mode of the same list, use the average calculator. To compare two values rather than describe a list, see the percent change calculator.
+
+### Sources
+
+- NIST/SEMATECH e-Handbook of Statistical Methods: Measures of scale (the variance and standard deviation of a sample, with N - 1), checked 16 November 2026.
+
+### Frequently asked questions
+
+What is standard deviation?
+A measure of how spread out numbers are around their mean. A small value means the numbers cluster near the mean; a large value means they are widely scattered. It is in the same units as your data.
+
+What is the difference between sample and population standard deviation?
+Use the population version when your numbers are the whole group you care about, and divide by n. Use the sample version when they are only a sample of a larger group, and divide by n - 1, which corrects for a sample underestimating the spread.
+
+Which one should I use?
+If you measured every member of the group, such as the marks of every student in one class you are describing, use population. If the numbers are a sample used to learn about a bigger group, such as 30 customers out of thousands, use sample. When unsure, sample is the usual choice.
+
+How do I calculate standard deviation by hand?
+Find the mean, subtract it from each number and square the result, add the squares, divide by n (population) or n - 1 (sample), and take the square root. For 2, 4, 4, 4, 5, 5, 7, 9 the mean is 5, the squares add up to 32, and the population standard deviation is the square root of 32 / 8, which is 2.
+
+What is variance?
+The standard deviation before the square root: the average of the squared differences from the mean. Standard deviation is easier to read because it is in the same units as your data, while variance is in squared units.
+
+Why divide by n - 1 for a sample?
+The deviations are measured from the sample&#x27;s own mean, which sits closer to the sample values than the true mean of the whole group would. That makes the spread come out a little too small, and dividing by n - 1 instead of n compensates. The size of the effect fades as the sample grows; see the table above.
+
+Why does the sample version need at least two values?
+Dividing by n - 1 with one value means dividing by zero. One value has no spread to estimate, so the sample result is not defined and the calculator shows needs 2+ values.
+
+Can the standard deviation be negative, or zero?
+It cannot be negative, because it is a square root of an average of squares. It is zero only when every value is identical, such as 7, 7, 7.
+
+Is a standard deviation of 10 big or small?
+It depends on the data. Compare it with the mean and the units. A spread of 10 around a mean of 1,000 is small. A spread of 10 around a mean of 20 is large. The two lists 48, 50, 52 and 30, 50, 70 share the mean 50 but have sample standard deviations of 2 and 20.
+
+What does the calculator do with text in my list?
+Numbers can be separated by commas, spaces, semicolons or new lines. Anything that is not a number is ignored and listed above the result, so a stray word will not change the answer silently.
+
+### Related tools
+
+Average Calculator Percentage Calculator Ratio Calculator Percent Change Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Ratio Calculator: Simplify and Solve Ratios
+
+URL: https://math.streamerosai.com/ratio-calculator/
+
+Free · instant · runs in your browser
+
+## Ratio Calculator
+
+Simplify a ratio to its lowest terms, or solve A: B = C: X for the missing value. Decimals are fine.
+
+#### Simplify a ratio
+
+A
+B
+6: 4 simplified 3: 2
+
+Shares of the whole: 60 % and 40 %. As 1: n it is 1: 0.6667.
+
+#### Solve A: B = C: X
+
+C
+6: 4 = 30: X, so X = 20
+
+#### Divide a total in the ratio A: B
+
+Total to share
+6: 4 of 500 gives 300 and 200
+
+### What a ratio is
+
+A ratio compares two quantities by how many times one fits into the other. 6: 4 says that for every 6 of the first there are 4 of the second. Dividing both terms by the same number gives an equivalent ratio, and the simplest form uses the smallest whole numbers: 6: 4 is 3: 2.
+simplify: divide A and B by gcd(A, B)
+solve: A: B = C: X -> X = B x C / A
+share a total: part = total x A / (A + B)
+
+### How to use the calculator
+
+- To simplify, type the two terms into A and B. The simplest form, the share of each part and the 1: n form appear under them.
+- To find a missing value, keep A and B and type C. The answer is X in A: B = C: X, which is the same ratio at a different scale.
+- To share an amount in the ratio A: B, type the total in the last box.
+Worked example: a recipe uses 2 cups of rice for 3 servings. For 10 cups, X = 3 x 10 / 2 = 15 servings.
+
+### Worked examples
+
+Question Working Answer
+Simplify 6: 4 divide by 2 3: 2
+Simplify 1.5: 2 x 10 gives 15: 20, divide by 5 3: 4
+Simplify 24: 36 divide by 12 2: 3
+2: 3 = 10: X 3 x 10 / 2 X = 15
+16: 9 = 1920: X 9 x 1920 / 16 X = 1,080
+
+### Equivalent ratios
+
+Multiplying both terms by the same number does not change a ratio. These all equal 3: 2, which is why solving A: B = C: X works.
+Multiplied by x 1 x 2 x 3 x 4 x 5 x 10
+Ratio 3: 2 6: 4 9: 6 12: 8 15: 10 30: 20
+
+### Screen and image sizes
+
+Width and height simplify to an aspect ratio. Keeping the ratio when you resize stops a picture being stretched.
+Width x height Simplified ratio As 1: n
+1,920 x 1,080 16: 9 1: 0.5625
+3,840 x 2,160 16: 9 1: 0.5625
+1,024 x 768 4: 3 1: 0.75
+1,280 x 1,024 5: 4 1: 0.8
+1,366 x 768 683: 384 1: 0.5622
+2,560 x 1,080 64: 27 1: 0.4219
+For a 16: 9 picture, these widths give these heights.
+Width 640 1,280 1,920 2,560 3,840
+Height 360 720 1,080 1,440 2,160
+
+### Sharing a total in a ratio
+
+Add the parts, divide the total by that sum to get the size of one part, then multiply by each term.
+Situation Total One part Shares
+A bill shared 3: 2 500 100 300 and 200
+Profit shared 1: 4 2,500 500 500 and 2,000
+Paint mixed 5: 1 12 2 10 and 2
+
+### Mistakes to avoid
+
+- Swapping the order. 3: 2 and 2: 3 are different ratios. Keep the same order on both sides of the equals sign.
+- Treating the parts as fractions of each other. In 3: 2, the first part is 3/5 of the whole, not 3/2 of it.
+- Mixing units. Convert both quantities to the same unit before you compare them.
+
+### What this calculator leaves out
+
+It works with two terms. Ratios with three or more terms, such as 2: 3: 5, are not supported, but you can compare them two terms at a time. It does not convert units for you, and it does not check that a proportion is reasonable for your problem: ratios of unlike things, such as price per item, are rates and need their units kept. To express a part as a percent of the whole, use the percentage calculator; to compare how a value changed, use the percent change calculator.
+
+### Frequently asked questions
+
+How do I simplify a ratio?
+Divide both numbers by their greatest common divisor. For 6:4 the divisor is 2, so the ratio simplifies to 3:2.
+
+How do I simplify a ratio with decimals?
+Multiply both numbers by the same power of 10 to make them whole, then simplify. 1.5:2 becomes 15:20, which simplifies to 3: 4.
+
+How do I find the missing number in a ratio?
+Use cross-multiplication. For A:B = C:X, X = B x C / A. If 2:3 = 10:X, then X = 3 x 10 / 2 = 15.
+
+How do I divide a number in a given ratio?
+Add the parts of the ratio, divide the total by that sum, and multiply by each part. To split 500 in the ratio 3:2, the sum is 5, so each part is 100 and the shares are 300 and 200. The third box in the calculator does this.
+
+How do I scale a ratio for a screen or image?
+For a 16:9 screen that is 1920 wide, the height is 9 x 1920 / 16 = 1,080. Keep the ratio and the picture is not stretched.
+
+Is a ratio the same as a fraction?
+They are related but not identical. The ratio 3:2 compares two parts to each other. As fractions of the whole, the parts are 3/5 and 2/5, which is 60% and 40%.
+
+How do I turn a ratio into a percentage?
+Divide each part by the sum of the parts and multiply by 100. For 1:3 the sum is 4, so the parts are 25% and 75%. The line under the simplified ratio shows this as you type.
+
+What is the difference between 2:3 and 3:2?
+Order matters. 2:3 means the first quantity is two thirds of the second; 3:2 means it is one and a half times the second. Keep the same order on both sides when you solve A:B = C:X.
+
+Can I use decimals or unequal units in a ratio?
+Decimals are fine. Units must match on both sides, though: compare metres with metres, not metres with centimetres. Convert one side first, then enter the numbers.
+
+What does the calculator do with a zero?
+A ratio with a zero part, such as 0:5, simplifies to 0:1, and A: B = C: X cannot be solved when A is 0, because it would divide by zero. A:B with both parts 0 has no ratio.
+
+### Related tools
+
+Percentage Calculator Average Calculator Percent Change Calculator Hours Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Average Calculator: Mean, Median, Mode and Range
+
+URL: https://math.streamerosai.com/average-calculator/
+
+Free · instant · runs in your browser
+
+## Average Calculator
+
+Paste a list of numbers to get the mean, median, mode, sum, minimum, maximum and range. Separate them with commas, spaces or new lines.
+Numbers (separated by commas, spaces or new lines) 4, 8, 8, 10, 15
+Mean (average) 9
+Median 8
+Mode 8
+
+Count 5
+Sum 45
+Minimum 4
+Maximum 15
+Range 11
+
+### The formulas
+
+mean = sum / count
+median = the middle value (or the mean of the middle two)
+mode = the most frequent value
+range = maximum - minimum
+
+### Worked example
+
+For 4, 8, 8, 10, 15: the sum is 45 and the count is 5, so the mean is 9. In order, the middle value is 8, so the median is 8. The value 8 appears twice, so the mode is 8. The range is 11.
+
+### More examples
+
+Numbers Mean Median Mode Range
+72, 85, 90, 68, 85 80 (400 / 5) 85 85 22
+3, 5, 7, 10 6.25 6 none 7
+30, 32, 35, 38, 200 (thousands) 67 (335 / 5) 35 none 170
+The last row shows why the median matters: one very large salary drags the mean to 67 while the typical value is 35.
+
+### Which average to quote
+
+- Mean uses every value and is the right choice for evenly spread data such as test scores, but a single outlier pulls it.
+- Median is the middle value and ignores how extreme the ends are, so it describes a typical case for skewed figures such as salaries or house prices. With an even count it is the mean of the middle two: for 3, 5, 7, 10 that is (5 + 7) / 2 = 6.
+- Mode is the most common value, useful for categories such as shoe sizes. A list can have no mode, or several.
+
+### A weighted average is different
+
+When values do not count equally, the plain mean is wrong. A course is graded 30% on an exam where you scored 80 and 70% on coursework where you scored 90. The weighted average is 0.30 x 80 + 0.70 x 90 = 24 + 63 = 87, not the plain mean of 85. Multiply each value by its weight, add the results, and divide by the total weight (here 1). This calculator gives the plain mean; for the spread of the values, use the standard deviation calculator.
+For percentages of a total, see the percentage calculator.
+
+### Frequently asked questions
+
+How do I calculate the average of a set of numbers?
+Add the numbers and divide by how many there are. For 4, 8, 8, 10 and 15 the sum is 45 and there are 5 numbers, so the average is 9.
+
+What is the difference between mean, median and mode?
+The mean is the sum divided by the count. The median is the middle value when the numbers are in order. The mode is the value that appears most often.
+
+When is the median better than the mean?
+When a few extreme values would pull the mean away from a typical value. For 1, 2, 3, 4 and 100 the mean is 22, but the median is 3.
+
+What if two values tie for the mode?
+Then there are two modes, and the calculator lists both. If every value appears once, there is no mode.
+
+What is the range?
+The largest value minus the smallest. For 4, 8, 8, 10 and 15, the range is 15 - 4 = 11.
+
+How do I find the median of an even number of values?
+Take the mean of the two middle values. For 3, 5, 7 and 10 the middle two are 5 and 7, so the median is 6 (the mean is 6.25).
+
+How do I calculate a weighted average?
+Multiply each value by its weight, add the results and divide by the total weight. A score of 80 worth 30% and 90 worth 70% gives 0.3 x 80 + 0.7 x 90 = 87. This calculator treats every value equally.
+
+Can I average percentages?
+Only if each percentage is of the same total. Otherwise, add up the underlying parts and totals and take the percentage of those.
+
+### Related tools
+
+Percentage Calculator Ratio Calculator Percent Change Calculator Hours Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# 百分比计算器：求百分之几、占比和总数（免费在线）
+
+URL: https://math.streamerosai.com/zh/percentage-calculator/
+
+免费 · 即时出结果 · 在浏览器中运行
+
+## 百分比计算器
+
+三种常见问题一次解决：X 的 Y% 是多少，X 占 Y 的百分之几，已知 X 是总数的 Y% 时总数是多少。在任意输入框中输入数字，结果会立即更新。
+
+#### 求 X 的 Y% 是多少？
+
+百分比（%）
+数字
+80 的 15% 是 12
+
+#### X 占 Y 的百分之几？
+
+数字（X）
+总数（Y）
+12 占 80 的 15%
+
+#### X 是总数的 Y%，总数是多少？
+
+数字（X）
+百分比（Y%）
+12 是总数的 15%，总数为 80
+
+English version
+
+### 三个基本公式
+
+问题 公式 例子
+求 Y 的 X% X ÷ 100 × Y 80 的 15% = 12
+X 占 Y 的百分之几 X ÷ Y × 100 12 占 80 的 15%
+X 是总数的 Y%，求总数 X ÷ (Y ÷ 100) 12 是 80 的 15%
+
+### 心算小技巧
+
+一个数的 10% 就是把小数点向左移一位：80 的 10% 是 8。5% 是它的一半，也就是 4。所以 80 的 15% 就是 8 + 4 = 12。1% 则是把小数点向左移两位。
+如果要计算涨幅或降幅，可以使用英文版的 percentage increase 和 percentage decrease 计算器。
+
+### 常见问题
+
+怎样计算一个数的 X%？
+把百分比除以 100，再乘以这个数。80 的 15% 就是 15 ÷ 100 × 80 = 12。
+
+怎样求一个数占另一个数的百分之几？
+用第一个数除以第二个数，再乘以 100。12 占 80 的 12 ÷ 80 × 100 = 15%。
+
+已知部分和百分比，怎样求总数？
+用部分除以百分比（写成小数）。如果 12 是某个数的 15%，这个数就是 12 ÷ 0.15 = 80。
+
+怎样计算一个百分数的百分之几？
+把两个百分数都写成小数再相乘。50% 的 20% 就是 0.20 × 0.50 = 0.10，也就是 10%。在第一个计算器里把百分比填 20、数字填 50 即可。
+
+怎样把百分数换成小数？
+除以 100，也就是把小数点向左移两位。15% 是 0.15，7.5% 是 0.075。
+
+
+---
+
+# Math Guides: Percentages and Counting Days
+
+URL: https://math.streamerosai.com/guides/
+
+Guides
+
+## Guides for percentages and dates
+
+Short explanations that go with the tools, written to fix the problem you came with.
+
+#### Percentage formulas explained: of, is-what-percent and percent change
+
+The formulas, worked examples, and the mistakes that trip people up.
+Read guide →
+
+#### How to count days between dates: inclusive, exclusive and working days
+
+Inclusive vs exclusive counting, month lengths, leap years and working days.
+Read guide →
+Each guide works examples you can check with a pencil, lists the common mistakes, and says which conventions the calculators use. The formulas are standard arithmetic and calendar rules.
+
+
+---
+
+# Percentage Formulas Explained: Of, Is-What-Percent, Change
+
+URL: https://math.streamerosai.com/guides/percentage-formulas/
+
+## Percentage formulas explained: of, is-what-percent and percent change
+
+"Percent" means per hundred, so 15% is 15 out of every 100, or 0.15. Almost every percentage question is one of the five below. The percentage calculator does each of them with your own numbers.
+
+### The five formulas
+
+X% of Y = X / 100 x Y 15% of 80 = 12
+X is what % of Y = X / Y x 100 12 of 80 = 15%
+X is Y% of what = X / (Y / 100) 12 is 15% -> 80
+percent change = (new - old) / old x 100 40 -> 50 = +25%
+new after Y% change = old x (1 +/- Y / 100) 80 +25% = 100
+
+### Mistake 1: percent versus percentage points
+
+If an interest rate rises from 4% to 5%, it has risen by 1 percentage point. As a percent change it is up 25%, because 1 is a quarter of 4. News stories mix the two, so check which one is meant.
+
+### Mistake 2: a rise and a fall do not cancel
+
+A percentage always applies to the current value. 100 falling by 50% is 50, and 50 rising by 50% is only 75. To get back to 100 from 50 you need a rise of 100%. This is why a share price that halves has to double to recover.
+
+### Mistake 3: adding discounts
+
+Two discounts multiply. 20% off and then 10% off leaves 0.80 x 0.90 = 0.72 of the price, which is 28% off, not 30%. The percentage decrease calculator shows the result for one step at a time.
+
+### Mistake 4: using the wrong base
+
+Percent change is measured against the starting value. From 40 to 50 is +25%, but from 50 to 40 is -20%. If neither value is the starting point, use percent difference, which divides by the average and gives the same answer both ways: 22.22% for 40 and 50. The percent change calculator shows both.
+
+### Mental shortcuts
+
+- 10% of a number: move the decimal point one place left.
+- 5%: half of 10%. 1%: move the decimal point two places.
+- 15% is 10% plus 5%. 25% is a quarter. 50% is half.
+
+### Worked example: a price with a discount and tax
+
+An item is listed at 1,000. It is on sale at 20% off, and 18% tax is added at the till. The order matters for how you describe it but not for the result of two multiplications: 1,000 x 0.80 = 800 after the discount, then 800 x 1.18 = 944 with tax. Doing it the other way round, 1,000 x 1.18 x 0.80, is also 944, because multiplication can be done in either order. What is not the same is adding the percentages: 1,000 x (1 + 0.18 - 0.20) would be 980, which is wrong.
+
+### Working backwards from a total
+
+A bill is 1,180 and it includes 18% tax. The tax is not 18% of 1,180. The pre-tax price is 1,180 / 1.18 = 1,000, so the tax is 180. Taking 18% of 1,180 gives 212.40, which is the classic wrong answer, because 18% applies to the price before tax, not to the total. The same rule finds the original price before any known percentage change: divide by (1 + the change).
+
+### Percent change in a row
+
+Successive changes multiply. Up 10% and then down 10% is 100 x 1.10 x 0.90 = 99, a net fall of 1%, not zero. Three years of 5% growth is 1.05 x 1.05 x 1.05 = 1.157625, so 15.76% in total, slightly more than 3 x 5% = 15%, because each year&#x27;s growth is on a larger base. The percentage increase calculator does one step; chain the results for several.
+
+### When a percentage is not enough
+
+- A percentage of a very small base looks dramatic: a rise from 2 to 4 cases is up 100%, but 2 more cases. Quote the counts as well.
+- Percentages of different groups cannot be added or averaged without weighting them. If 50% of 10 people and 20% of 90 people agree, the combined figure is (5 + 18) / 100 = 23%, not 35%.
+- Percent difference and percent change answer different questions. Use change when one value is the starting point and difference when neither is.
+All of the formulas on this page are standard arithmetic definitions of percentage and need no external source; each example above can be checked with the calculators linked on this page or with any ordinary calculator.
+
+
+---
+
+# How to Count Days Between Dates: Inclusive, Exclusive, Working
+
+URL: https://math.streamerosai.com/guides/counting-days-between-dates/
+
+## How to count days between dates: inclusive, exclusive and working days
+
+Asking how many days there are between two dates sounds simple, yet two people can honestly give different answers. The difference is almost always whether the first and last day are counted.
+
+### Exclusive and inclusive counting
+
+The usual calculation subtracts the earlier date from the later one. From 1 January to 31 December 2026 that is 364 days: the start date is day zero and the end date is day 364. Counting both ends gives 365, which is what you want when you ask how many days an event covers. A course that runs Monday to Wednesday covers 3 days, but the difference between the two dates is 2.
+Use the days between dates calculator and tick Count the end date too to switch between them.
+
+### Leap years
+
+A year has 366 days if it is divisible by 4, except century years, which must be divisible by 400. So 2024 and 2000 were leap years and 1900 was not. From 1 January 2024 to 1 January 2025 is 366 days.
+
+### Years, months and days
+
+Age and contract periods are quoted in years, months and days. The method is to add whole calendar months to the start date for as long as the result does not pass the end date, then count the days left. Someone born on 15 May 1990 is, on 4 November 2026, 36 years, 5 months and 20 days old: 15 May 1990 plus 36 years and 5 months is 15 October 2026, and 20 days later is 4 November.
+When the day does not exist in a month, such as the 31st in a 30-day month, the date moves to the last day of that month. Try it with the age calculator or the date calculator.
+
+### Working days
+
+Working days exclude Saturdays and Sundays. From Monday 2 November to Monday 9 November 2026 there are 7 days but 5 working days. Public holidays differ by country and region, so they are not subtracted; take them off by hand.
+
+### 29 February birthdays
+
+A leap-day birthday has no exact anniversary in three years out of four. Calculators here treat 28 February as the anniversary. Some countries&#x27; laws use 1 March instead, so use the rule that applies where it matters legally.
+
+### Worked example: a seven-week countdown
+
+Wednesday 4 November 2026 to Friday 25 December 2026. Subtracting the dates gives 51 days (26 days left in November after the 4th, plus 25 in December). Counting both ends gives 52. In weeks that is 7 weeks and 2 days, since 7 x 7 = 49. Because the range starts on a Wednesday and ends on a Friday, the working days (Monday to Friday) are 37 if the last day is not counted and 38 if it is. Public holidays inside the range, such as 25 December itself, would come off that number by hand. Adding days works the same way in reverse: 15 March 2026 plus 100 days is 23 June 2026.
+
+### Why computers get this wrong
+
+A common bug is to subtract two timestamps and divide by 24 hours. In a time zone that changes its clocks, a day can be 23 or 25 hours long, so the result is off by a fraction and rounds the wrong way. A calendar-date subtraction, which ignores the time of day, avoids it. The calculators here work on calendar dates, not on timestamps, for that reason.
+
+### Checking a result by hand
+
+- Same year: subtract the day numbers of the year. 4 November is day 308 and 25 December is day 359 of 2026, and 359 - 308 = 51.
+- One year later, same date: 365 days, or 366 if 29 February falls between the two dates.
+- Weeks: divide by 7 and keep the remainder. 51 / 7 is 7 with 2 left over, so 7 weeks and 2 days.
+
+### Date formats
+
+Numeric dates such as 04/11/2026 mean 4 November in much of the world and 11 April in the United States, which is a frequent source of off-by-months mistakes. The calculators take a date picker value, not typed text, to avoid the ambiguity. For anything written down for others, the unambiguous form is year-month-day (2026-11-04), the format of ISO 8601 and of RFC 3339 ( rfc-editor.org/rfc/rfc3339).
+Limits: the working day count skips Saturdays and Sundays only. Some countries have a different working week and every country has its own public holidays, so for payroll, legal or contract deadlines check the rule in the document that governs them.
+
+
+---
+
+# About StreamerOS Math Calculators: Free, Private Math
+
+URL: https://math.streamerosai.com/about/
+
+## About
+
+StreamerOS Math Calculators is a small set of free calculators for everyday number questions: percentages and percent change, age, days between dates, adding to a date, hours worked, ratios and averages, with short guides that explain the formulas.
+It is built and maintained by Yaseen Khatib, a full-stack AI engineer, as part of the StreamerOS project. Many calculators give an answer without showing how it was reached, so every page here states its formula and works a few examples you can check by hand.
+
+### How the calculators work
+
+Every calculator runs in your browser using standard JavaScript. The numbers and dates you enter, including dates of birth, are processed on your device and are not sent to a server or stored. The site is a static website hosted on GitHub Pages.
+
+### What the results are, and are not
+
+The calculators do exact arithmetic on what you type, and the date logic is tested against known cases. They are general tools, not financial, legal or medical advice. For legal ages and deadlines, check the rules that apply in your country; for example, the date a 29 February birthday is observed differs between countries.
+
+### Who is behind it
+
+The site is run by one person, Yaseen Khatib, a full-stack AI developer based in Hyderabad, India. His portfolio is at yk.streamerosai.com. There is no team and no company behind the pages, which is why corrections go straight to him through the contact page. The same family of small sites also includes tools for developers, money, images and maths at tools, calc, images and math on streamerosai.com.
+
+### How pages are kept accurate
+
+The calculation code has automated tests, every formula is written out on the page with a worked example you can check by hand, and facts that come from outside (rates, rules, standards) name their source. Each page shows the date it was last reviewed, and that date changes only when the page does. The assumptions and limits of a tool are stated on its page rather than hidden, and a result that cannot be right (an impossible date, for instance) shows a message instead of a number. The terms of use and privacy policy describe the rest.
+
+### How the site is funded
+
+The calculators are free. The site does not show ads at the moment; it may show Google AdSense ads to cover hosting and development time. Ads never change the result of a calculator.
+
+### Corrections
+
+If a result is wrong or a guide contains a mistake, please use the contact page. Fixes are made in the open and the guides are updated.
+
+
+---
+
+# Privacy Policy: StreamerOS Math Calculators
+
+URL: https://math.streamerosai.com/privacy/
+
+## Privacy Policy
+
+This policy describes what StreamerOS Math Calculators ( https://math.streamerosai.com) does with information when you use it. Last updated: 24 November 2026.
+
+### What the tools do with your input
+
+The calculators work entirely in your browser. The numbers and dates you type, including any date of birth, are not transmitted to our servers, logged, or stored. Closing the page clears them.
+
+### Cookies and similar technologies
+
+Cookies are small files a site stores in your browser. The analytics and advertising services listed below may set cookies or read similar identifiers. The tools themselves do not need a cookie to work. The only thing the site stores for its own use is your light or dark theme choice, kept in your browser&#x27;s local storage and never sent anywhere. You can block or delete cookies in your browser settings; the tools keep working either way.
+
+### Analytics
+
+This site uses Google Analytics 4 to count visits and see which pages are useful. It collects page views, approximate location, device and browser type, and how you arrived, using cookies and similar identifiers. It does not receive the text you enter into the tools. You can opt out with the Google Analytics opt-out browser add-on. Google signals is on, so for visitors signed in to a Google account with ad personalisation turned on, Google may associate this site&#x27;s visit data with that account to give us aggregated reports on age group, gender and interests; no individual is identified to us. You can turn this off in your Google account under Data & privacy, or in My Ad Center. We do not sell personal information.
+
+### Usage recording
+
+This site uses Microsoft Clarity to see how pages are used, through heatmaps and anonymised session recordings (mouse movement, clicks and scrolling). Clarity is configured to mask the text on the page, so what you type or load into a tool is not recorded. Clarity sets its own cookies ( _clck, _clsk) and Microsoft cookies on clarity.ms and bing.com (such as MUID); see Microsoft&#x27;s privacy statement.
+
+### First-party visit counter
+
+The site also runs a small counter of its own, Pulse, a script served from our own Cloudflare Worker (pulse.yaseenyk.workers.dev), to tell real visits from automated ones. It records the page address (without the query string), the referring site and campaign tags, country, device type, browser and system name, screen size, language, the name of your network provider, scroll depth, time on the page, page speed, which links and buttons were clicked, and a human-or-bot signal. Since 24 November 2026 it also records a few technical details: up to three script error messages per page (the message, script file and line), whether your browser translated the page and into which language, the connection type (such as 4g or 3g), how fast the page responded to a tap, layout jumps, and the name of a form that was sent or started but not sent (never what was typed; these sites have no forms today). It sets no cookies, never reads what you type or the values in input fields, and stores no IP address or browser string: the address is used in memory only, to limit abuse and to make a visitor code that changes every day (a one-way hash with a random salt that is deleted the next day), so visits cannot be linked across days. Records are deleted after 90 days. It switches itself off when your browser sends Do Not Track or Global Privacy Control, and on localhost. The data is used only to understand how the site is used.
+
+### Advertising
+
+This site does not show ads at the moment. We intend to use Google AdSense after approval. Once ads run, Google and its partners may use cookies to serve ads based on your visits to this and other websites. You can opt out of personalised advertising at adssettings.google.com, and learn how Google uses data from sites that use its services at policies.google.com/technologies/partner-sites. Where required by law (for example in the EEA and UK), personalised ads will be shown only after you consent. Ads will never change a tool&#x27;s result, and this policy will be updated before ads go live if anything above changes.
+
+### Your choices
+
+You can use the site with cookies blocked, opt out of Google Analytics with the add-on above, turn on Do Not Track or Global Privacy Control to switch off the visit counter, and ask a privacy question through the contact page. We do not collect accounts, names or email addresses through the tools. If you write to us, we use your address only to reply.
+
+### Children
+
+The tools are general-purpose and not aimed at children under 13, and we do not knowingly collect their data.
+
+### Contact
+
+Questions about this policy: see the contact page. The rules for using the site are in the terms of use.
+
+
+---
+
+# Terms of Use: StreamerOS Math Calculators
+
+URL: https://math.streamerosai.com/terms/
+
+## Terms of Use
+
+These terms apply when you use StreamerOS Math Calculators ( https://math.streamerosai.com). By using the site you agree to them. If you do not agree, please do not use it. Last updated: 16 November 2026.
+
+### What the site is
+
+StreamerOS Math Calculators is a free set of browser-based tools and explanatory guides, run by an individual. The tools run on your device. How the site treats information is described in the privacy policy.
+
+### Use as is, and accuracy
+
+The tools and guides are provided as they are, without warranties of any kind. We test the logic and state our formulas and assumptions on each page, but mistakes are possible and rules, rates and standards change. Check anything that matters before you rely on it.
+
+### Results and their limits
+
+The calculators give arithmetic results from the numbers and dates you enter and the method described on each page. Check results that matter. Date counts skip weekends only and do not know public holidays; ages and periods follow the rule stated on the page, which may differ from the rule a law, contract or authority applies. Nothing here is legal, medical, financial or academic advice.
+
+### Acceptable use
+
+Use the site lawfully. Do not attempt to disrupt it, overload it with automated requests, probe it for weaknesses, or use it to process material you have no right to handle. You are responsible for the data you put into a tool and for what you do with the result.
+
+### Content and ownership
+
+The text, design and code of the site belong to its owner unless stated otherwise, and third-party names and standards cited remain the property of their owners. You may link to any page. Please do not republish the guides or copy them in bulk without permission; short quotations with a link back are fine.
+
+### Links, ads and third parties
+
+Pages link to outside sources so you can check our work. We do not control those sites and are not responsible for them. If ads are shown, they are provided by third parties, are labelled as ads, and do not mean we endorse the advertiser.
+
+### Availability and liability
+
+The site may change or be unavailable at any time. To the extent the law allows, we are not liable for any loss arising from your use of, or inability to use, the site or from reliance on a result it gives. Nothing here limits any right you have by law that cannot be limited.
+
+### Changes to these terms
+
+We may update these terms. The date at the top shows the latest version, and continued use after a change means you accept it.
+
+### Contact
+
+Questions about these terms: see the contact page.
+
+
+---
+
+# Contact StreamerOS Math Calculators: Errors and Requests
+
+URL: https://math.streamerosai.com/contact/
+
+## Contact
+
+Found a bug, a wrong result, or want a tool added? Tell us and include the input that caused the problem when you can. Messages go to the person who runs the site, and we aim to reply within a few working days.
+Email: contact@streamerosai.com
+
+### What helps most
+
+- The page address and what you expected to see.
+- The input that caused a wrong result, with anything private removed, and the browser you used.
+- For a mistake in a guide, the sentence and the source you believe says otherwise.
+
+### What we cannot do
+
+We cannot give personal financial, tax, legal or employment advice, check a specific document, or recover a file for you, because nothing you enter is uploaded to us. The site is run by one person, so replies can take a few days. Reports of wrong results are fixed first. If you do not want us to keep your email address, say so and we will delete the message once it is answered.
